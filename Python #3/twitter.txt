@@ -1,7 +1,0 @@
-Consumer key	h39lst85AG9uJu7kKPsWiw
-Consumer secret	jHBFJAcE7HAGHwrpOKYXKkoGWddqk7srJ8eeebyI
-Request token URL	https://api.twitter.com/oauth/request_token
-Authorize URL	https://api.twitter.com/oauth/authorize
-Access token URL	https://api.twitter.com/oauth/access_token
-OAUTH_TOKEN: 53001055-KcTGe18A5FI62oNayIe7y4CBpaFOMzMStD3HNEw
-OAUTH_TOKEN_SECRET: wDh40jn30CRU9KMCN3s4dE3pZpsHa0MrdTonthHDRo
